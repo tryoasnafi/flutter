@@ -3,13 +3,14 @@
 My Learning Repository about Flutter Development.
 
 ## To-do List (Learning Path)
+
 - Programming Language
   - [x] Dart
 - IDE / Text Editor
   - [x] Android Studio
   - [x] VSCode
 - Widgets
-  - [ ] Stateless and Statefull Widget
+  - [x] Stateless and Statefull Widget
   - [ ] Accesibility
   - [ ] Theming and Localization
   - [ ] Material
@@ -21,7 +22,7 @@ My Learning Repository about Flutter Development.
   - [ ] Audio/Video
 - Static UI
   - [x] View (Text, Button, Image, dll)
-  - [ ] View Group (Container, Row, Column, Stack, Expanded, ConstrainedBox)
+  - [x] View Group (Container, Row, Column, Stack, Expanded, ConstrainedBox)
 - Dynamic UI
   - [ ] List View
   - [ ] Grid View
