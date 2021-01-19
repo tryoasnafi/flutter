@@ -36,8 +36,8 @@ My Learning Repository about Flutter Development.
   - [ ] Transform
   - [ ] Opacity
 - Storage
-  - [ ] Shared Preferences
-  - [ ] SQLite
+  - [x] Shared Preferences
+  - [x] SQLite
 - Behavior Components
   - [ ] Permission
   - [ ] Local Notification
@@ -52,6 +52,7 @@ My Learning Repository about Flutter Development.
   - [ ] BLoC
 - Firebase
   - [ ] Firebase Auth
+  - [x] Firebase Analytics
   - [ ] Firebase Database
   - [ ] Firebase Storage
   - [ ] Firebase Messaging
